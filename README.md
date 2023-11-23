@@ -33,8 +33,7 @@ In this project we will build a PostgreSQL movie database, designed to store inf
 
 
 ## Create the table
-1. Execute the _Create_Table.sql_ script to create the necessary tables, and run the _Insert_Data.sql_ script accordingly to populate the tables with sample data.
-2. Utilize various views to query and analyze the movie data.
+- Execute the _Create_Table.sql_ script to create the necessary tables, and run the _Insert_Data.sql_ script accordingly to populate the tables with sample data.
 
 ## Some SQL Queries to play with the data
 ### Actor Filmography View
