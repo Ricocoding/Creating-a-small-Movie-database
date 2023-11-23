@@ -29,6 +29,8 @@ In this project we will build a PostgreSQL movie database, designed to store inf
 - IMDB_Rating - rating from IMDB, ranging from 0.0 to 10.0.
 
 ## Entity-Relationship (ER) diagram
+<img width="451" alt="image" src="https://github.com/Ricocoding/Movie_Project/assets/65225231/dfbc244e-58fb-44f3-9686-afa0a22d6eda">
+
 
 ## Create the table
 1. Execute the _Create_Table.sql_ script to create the necessary tables, and run the _Insert_Data.sql_ script accordingly to populate the tables with sample data.
