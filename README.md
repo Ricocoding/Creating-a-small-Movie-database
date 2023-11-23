@@ -6,7 +6,7 @@ In this project we will build a PostgreSQL movie database, designed to store inf
 ## Dataset details
 ### genres
 - genre_id - unique identifier to the particular genre.
-- genre_name (string) : respective genre.
+- genre_name (string) - respective genre.
 
 ### directors
 - director_id - unique identifier to the particular director.
