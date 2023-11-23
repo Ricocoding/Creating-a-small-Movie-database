@@ -78,6 +78,7 @@ To see the results:
 SELECT * FROM movies_same_director_or_actor;
 ```
 And here's the result:
+
 <img width="779" alt="image" src="https://github.com/Ricocoding/Movie_Project/assets/65225231/fb4070c7-db6b-4e86-89d9-01d03f96e213">
 
 
