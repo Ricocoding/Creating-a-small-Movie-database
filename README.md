@@ -96,6 +96,4 @@ SET actor_name = 'James Dean', actor_country = 'USA'
 WHERE actor_id = 2
 ```
 
-Enjoy!!"# Movie_Project" 
-"# Movie_Project" 
-"# Movie_Database" 
+Enjoy!!
